@@ -1,14 +1,15 @@
 # Search Anime By Ranking
 
-This is a simple ReactJS application, where you can search the name of anime by enetering the rank number.
+This is a simple ReactJS application, where you can search the name of anime by entering the rank number.
 
 ## Run application
 
 In the project directory, you can run:
 
-### `npm start`
+```
+npm start
+```
 
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ## Live application
