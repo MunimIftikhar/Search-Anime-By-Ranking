@@ -1,0 +1,35 @@
+.App {
+  background-color: #eee;
+  height: 100vh;
+  width: 100vw;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 70h;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.search-bar-container {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  padding-top: 20vh;
+  width: 40%;
+  align-items: center;
+  min-width: 200px;
+}
+
+.box {
+  text-align: left;
+  border: black ridge 1px;
+  border-radius: 10px;
+  margin: 3px;
+  width: 20rem;
+  padding-left: 10px;
+}
